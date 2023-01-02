@@ -28,12 +28,6 @@ Este projeto apresenta a resolução dos desafios propostos em TypeScript do San
 
 <br>
 
-## 🔖 Layout
-
-Você pode navegar pelo projeto através [DESSE LINK](https://thiagomonts.github.io/to-do-list/).
-
-<br>
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
